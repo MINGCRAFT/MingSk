@@ -1,0 +1,9 @@
+name: MingSk
+version: '${version}'
+main: com.mingcraft.mingsk.MingSkPlugin
+api-version: 1.16
+prefix: MingSk >>
+depend: [ Skript ]
+authors: [ Lede ]
+description: MingCraft Skript Addon
+website: https://github.com/MINGCRAFT
